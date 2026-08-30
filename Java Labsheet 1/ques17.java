@@ -24,5 +24,7 @@ public class ques17 {
         } else {
             System.out.println(original + " is not a palindrome.");
         }
+
+        sc.close();
     }
 }

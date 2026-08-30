@@ -20,5 +20,7 @@ public class ques24 {
         } else {
             System.out.println(num + " is not a perfect number.");
         }
+
+        sc.close();
     }
 }

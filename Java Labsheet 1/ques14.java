@@ -16,5 +16,7 @@ public class ques14 {
         } else {
             System.out.println("It is a special character.");
         }
+
+        sc.close();
     }
 }

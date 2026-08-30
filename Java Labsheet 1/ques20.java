@@ -25,5 +25,7 @@ public class ques20 {
         } else {
             System.out.println("Invalid gender.");
         }
+
+        sc.close();
     }
 }

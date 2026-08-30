@@ -15,5 +15,7 @@ public class ques22 {
         } else {
             System.out.println("The rectangle is not a square.");
         }
+
+        sc.close();
     }
 }

@@ -15,5 +15,7 @@ public class ques26 {
         } else {
             System.out.println("First and last digits are different.");
         }
+
+        sc.close();
     }
 }

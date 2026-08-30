@@ -28,5 +28,7 @@ public class ques30 {
         } else {
             System.out.println("Invalid operator.");
         }
+
+        sc.close();
     }
 }

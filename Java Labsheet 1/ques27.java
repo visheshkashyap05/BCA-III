@@ -19,5 +19,7 @@ public class ques27 {
         } else {
             System.out.println("No profit, no loss.");
         }
+
+        sc.close();
     }
 }

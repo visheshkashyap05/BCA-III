@@ -24,5 +24,7 @@ public class ques09 {
         } else {
             System.out.println("Result: Fail");
         }
+
+        sc.close();
     }
 }

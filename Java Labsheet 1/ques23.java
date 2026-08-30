@@ -11,5 +11,7 @@ public class ques23 {
 
         System.out.println("Temperature in Celsius: " + celsius);
         System.out.println("Temperature in Fahrenheit: " + fahrenheit);
+
+        sc.close();
     }
 }

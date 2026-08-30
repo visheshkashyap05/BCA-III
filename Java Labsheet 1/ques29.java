@@ -14,5 +14,7 @@ public class ques29 {
         } else {
             System.out.println("Classification: Tall");
         }
+
+        sc.close();
     }
 }

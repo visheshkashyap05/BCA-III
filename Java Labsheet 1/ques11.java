@@ -30,5 +30,7 @@ public class ques11 {
         }
 
         System.out.println("Largest number: " + largest);
+
+        sc.close();
     }
 }

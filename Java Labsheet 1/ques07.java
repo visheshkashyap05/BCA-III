@@ -12,5 +12,7 @@ public class ques07 {
         } else {
             System.out.println("The number is not divisible by both 3 and 5.");
         }
+
+        sc.close();
     }
 }

@@ -14,5 +14,7 @@ public class ques13 {
         } else {
             System.out.println("The number is zero.");
         }
+
+        sc.close();
     }
 }

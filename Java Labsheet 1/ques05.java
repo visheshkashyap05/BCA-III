@@ -11,5 +11,7 @@ public class ques05 {
 
         System.out.println("Original value: " + num);
         System.out.println("Converted integer value: " + converted);
+
+        sc.close();
     }
 }

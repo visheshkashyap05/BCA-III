@@ -17,5 +17,7 @@ public class ques10 {
         } else {
             System.out.println("Both numbers are equal.");
         }
+
+        sc.close();
     }
 }

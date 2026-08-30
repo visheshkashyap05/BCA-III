@@ -22,5 +22,7 @@ public class ques28 {
         } else {
             System.out.println("Number has more than 5 digits.");
         }
+
+        sc.close();
     }
 }

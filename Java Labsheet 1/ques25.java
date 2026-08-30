@@ -23,5 +23,7 @@ public class ques25 {
         } else {
             System.out.println("Invalid logical operator.");
         }
+
+        sc.close();
     }
 }

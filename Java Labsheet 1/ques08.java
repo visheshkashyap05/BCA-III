@@ -16,5 +16,7 @@ public class ques08 {
         } else {
             System.out.println("The character is a consonant.");
         }
+
+        sc.close();
     }
 }

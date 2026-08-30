@@ -21,5 +21,7 @@ public class ques16 {
 
         System.out.println("Income: " + income);
         System.out.println("Tax: " + tax);
+
+        sc.close();
     }
 }

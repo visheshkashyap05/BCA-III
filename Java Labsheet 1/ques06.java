@@ -10,5 +10,7 @@ public class ques06 {
         int ascii = (int) ch;
 
         System.out.println("ASCII value of " + ch + " is: " + ascii);
+
+        sc.close();
     }
 }

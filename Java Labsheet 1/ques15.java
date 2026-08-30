@@ -26,5 +26,7 @@ public class ques15 {
         } else {
             System.out.println(original + " is not an Armstrong number.");
         }
+
+        sc.close();
     }
 }

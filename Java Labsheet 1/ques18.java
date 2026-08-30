@@ -25,5 +25,7 @@ public class ques18 {
         } else {
             System.out.println(num + " is not a prime number.");
         }
+
+        sc.close();
     }
 }

@@ -18,5 +18,7 @@ public class ques21 {
         } else {
             System.out.println("The angles do not form a valid triangle.");
         }
+
+        sc.close();
     }
 }
